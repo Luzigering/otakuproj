@@ -1,5 +1,6 @@
 # Pokedex
-<img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/5bf97943-be7b-42ef-ae94-51d448ed8546" />
+<img width="1870" height="995" alt="image" src="https://github.com/user-attachments/assets/73469df1-faca-4d8a-8c60-23a6426e69bd" />
+
 
 # sv
 
