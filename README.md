@@ -1,7 +1,7 @@
 # Pokedex
 <img width="1870" height="995" alt="image" src="https://github.com/user-attachments/assets/73469df1-faca-4d8a-8c60-23a6426e69bd" />
 
-
+Um projeto clássico 
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
